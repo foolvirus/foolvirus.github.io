@@ -40,8 +40,8 @@ timezone:      null
 
 #Site config
 title: Foolvirus
-description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Jekyll Theme
+description: Foolvirus's blogs.
+keywords: Foolvirus
 url: http://foolvirus.github.io
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
@@ -118,4 +118,4 @@ disqus:
 
 duoshuo:
   config: true
-  id: zhanxin
+  id: foolvirus
