@@ -66,8 +66,9 @@ author:
     imageLink: http://o8abkjg58.bkt.clouddn.com/zlw.jpg
     simpleIntro: 我是「傻瓜病毒」，如果可能请隔离。
     detailIntro:
-      <p>Jekyll 是一个简洁的、特别针对博客平台的 静态网站 生成器。它使用一个模板目录作为网站布局的基础框架，并在其上运行 Textile 、 Markdown 或 Liquid 标记语言的转换器，最终生成一个完整的静态Web站点，可以被放置在Apache或者你喜欢的其他任何Web服务器上。它同时也是 GitHub Pages 、一个由 GitHub 提供的用于托管项目主页或博客的服务，在后台所运行的引擎。</p>
-      <p>很早之前，使用过 wordpress 来写博客。但是还要处理很多的底层问题。而使用 Jekyll 来写博客，可以很简单，写 Markdown 就好。然而，Jekyll 还很年轻，没有很多主题的支持。这里的主题，就是为 Jekyll 而写的。希望你能喜欢。</p>
+      <p>这是我的博客，在这我会读书、思考进行开智之旅，也会把自己健身的经验在这里分享。此时，敲这段文字，是为了完成搭建博客的作业，我也不知道再写些什么。以后，我会逐渐改进。</p>
+      <p>我生活在东北沈阳，工作在金融行业。我在2013年重生，那一年我减肥成功。身体之外，我更追求理性心智，先后结识采铜、李笑来及阳志平等智者。开启心智，我会一直学习下去。希望能遇到同行的人。</p>
+      <p>The worst thing I could be,is the same as everybody else.I'd hate that.-Arnold Schwarznegger
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
