@@ -74,13 +74,13 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/pizn
+    url: http://weibo.com/foolvirus
   - class: icon-renren
     url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com/pizn
+    url: http://github.com/foolvirus
   - class: icon-twitter
-    url: http://twitter.com/piznlin
+    url: http://twitter.com/fool_virus
   - class: icon-google-plus
     url: http://google.com
 
