@@ -33,6 +33,7 @@ category: "其他"
 - 写作时遵循奥卡姆剃刀原则，采取修剪之刃与隐喻滤镜两大神器。
 
 参考：[阳志平的网志：如何提高文章含金量][1]
+
 1.2快速写作模式谈
 
 参考：[阳志平的网志：快速写作模式谈][2]
@@ -101,3 +102,4 @@ category: "其他"
 [11]:	http://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=214811570&idx=1&sn=3bf6debc578d9534ffd400aa9df6c43d&scene=21#wechat_redirect
 [12]:	http://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149153&idx=1&sn=aa90fa9ee0469fa2ace915a339caf6a3&scene=21#wechat_redirect
 [13]:	http://www.yangzhiping.com/files/pubs/wenxin_01.pdf
+
